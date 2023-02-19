@@ -12,4 +12,4 @@ function Splash(): JSX.Element {
 
 
 
-export default Splash;
+export { Splash };

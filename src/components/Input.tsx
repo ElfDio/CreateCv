@@ -1,5 +1,5 @@
 import React from 'react';
-import { Text, View, Image, TextInput, NativeSyntheticEvent, TextInputFocusEventData } from 'react-native';
+import { TextInput, NativeSyntheticEvent, TextInputFocusEventData } from 'react-native';
 import tw from 'twrnc';
 
 type TextInputProps = {
